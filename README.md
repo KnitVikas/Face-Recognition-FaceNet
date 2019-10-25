@@ -13,18 +13,22 @@ Y_arrays.Both os the ararays are the gien to the facenet to find the embeddings.
 
 Data set must be in this order.
 main folder
-├── train
-│   ├── image_class1
-│   ├── image_class2
-│   ├── image_class3
-│   ├── image_class4
-│   └── image_class5
-└── validation
-    ├── image_class1
-    ├── image_class2
-    ├── image_class3
-    ├── image_class4
-    └── image_class5
+train
+   
+    image_class1
+    image_class2
+    image_class3
+    image_class4
+    image_class5
+
+validation
+   
+   
+     image_class1
+     image_class2
+     image_class3
+     image_class4
+     image_class5
     
 # Training the embeddings
 on the SVM classifier we are going to train our embeddings we get above.than on passing the image to the model we could ge the
