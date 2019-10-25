@@ -12,7 +12,10 @@ the faces are extracted ffrom the images and are stored in as arrays avery cropp
 Y_arrays.Both os the ararays are the gien to the facenet to find the embeddings.
 
 Data set must be in this order.
+
 main folder
+
+
 train
    
     image_class1
