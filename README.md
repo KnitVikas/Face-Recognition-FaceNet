@@ -33,9 +33,7 @@ validation
      image_class4
      image_class5
     
-# Training the embeddings
-on the SVM classifier we are going to train our embeddings we get above.than on passing the image to the model we could ge the
-prediction of the model.
+
 
 
 
