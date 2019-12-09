@@ -1,4 +1,4 @@
-# Face-Recognition-FaceNet
+# Face-Recognition using FaceNet
 
  The problem is to recognize the faces given in the images.Here i am having the dataset  the images of arount 17-18 for each
  face we want to detect.The order of the directory must be in the same sequence as given in the readme file.The Multi-task    Cascade Convolutional Neural Network (MTCNN) is used to crop the faces from the images.The face embedding of the croped faces is than find out by the FaceNet model of the google. The embeddings are than classify by the SVM classifier to classify the images.
