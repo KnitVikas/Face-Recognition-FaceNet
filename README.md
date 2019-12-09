@@ -48,7 +48,9 @@ the faces are extracted ffrom the images and are stored in as arrays avery cropp
 Y_arrays.Both os the ararays are the gien to the facenet to find the embeddings.
 
 Face Verification. A one-to-one mapping of a given face against a known identity (e.g. is this the person?).
+
 Face Identification. A one-to-many mapping for a given face against a database of
+
 Face recognition is the general task of identifying and verifying people from photographs of their 
 
-References:
+
